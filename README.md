@@ -1,5 +1,5 @@
-### Hi there 👋, This is Sadia Haque
-##### Full Stack Web Developer With PHP & Laravel
+## Hi there 👋, This is Sadia Haque
+#### Full Stack Web Developer With PHP & Laravel
 I make any web-based software like Inventory, POS, E-commerce, Blog, Landing Page, and any Type of Website... 
 
 Skills: HTML-5 / CSS-3 / Bootstrap / Javacripts / jQuery / PHP / MySQL / Laravel / WordPress.
