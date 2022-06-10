@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning More About Laravel Framework.
 - 💞️ I’m looking to collaborate on Web Development Project.
-- 🤔 I’m looking for help with Laravel Project.
 - 💬 Ask me about Wordpress or any Web Design & Development related stuff.
 - 📫 How to reach me [Facebook - @sadiahaque207](https://www.facebook.com/sadiahaque207/), [Twitter - @SadiaHaque207](https://twitter.com/SadiaHaque207), [Linkedin](https://www.linkedin.com/in/sadia-haque-5b59171b5/), [Instagram - designer__365](https://www.instagram.com/designer__365/)
 - 😄 Pronouns: She/Her
